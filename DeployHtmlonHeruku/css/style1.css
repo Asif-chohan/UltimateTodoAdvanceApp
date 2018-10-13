@@ -1,0 +1,50 @@
+.header{
+    min-height: 500px;
+    background-image: url("../resources/building.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0px !important;
+    
+
+    
+}
+.header .opacity{
+    padding-top : 10px;
+    padding-bottom: 10px;
+    background-color: rgba(0, 0, 0, .6);
+   
+    
+
+}
+.header .navbar{
+    background-color: transparent !important;
+    
+}
+
+.jumbotron{
+    margin-top: 250px;
+    padding-bottom: 10px !important;
+    padding-top: 10px !important;
+    background-color: rgba(0, 0, 0, .4);
+    
+
+}
+.navbar a{
+    color: white !important;
+    background-color: transparent !important;
+    font-weight: bold;
+}
+.dropdown-menu{
+    background-color: rgba(0, 0, 0, .6) !important; 
+}
+.jumbotron h1, .jumbotron p{
+    color: blanchedalmond !important;
+    font-weight: bold;
+}
+#slideContainer{
+    background-color: #C9E5F3;
+    margin-top: -40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
